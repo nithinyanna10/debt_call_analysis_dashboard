@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-def load_calls_data(path: str = "./data/raw_calls.csv") -> pd.DataFrame:
+def load_calls_data(path: str = "../data/raw_calls.csv") -> pd.DataFrame:
     """
     Load and preprocess the raw debt collection call data.
 
