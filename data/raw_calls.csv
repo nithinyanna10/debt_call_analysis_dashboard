@@ -1,0 +1,101 @@
+call_id,agent_id,customer_id,call_duration_sec,transcript,payment_outcome
+C001,A103,U151,173,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: Let me process the payment",Paid
+C002,A101,U204,388,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Already paid. Agent: Let's schedule a follow-up",Not Paid
+C003,A104,U146,277,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: Let's schedule a follow-up",Not Paid
+C004,A101,U220,260,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I need more time. Agent: We can do installments",Paid
+C005,A102,U482,162,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: I'll update your status",Paid
+C006,A103,U299,382,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: I'll escalate the case",Paid
+C007,A104,U583,146,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: Let me process the payment",Paid
+C008,A101,U653,263,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: This is harassment. Agent: I'll escalate the case",Not Paid
+C009,A104,U978,298,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: Let's schedule a follow-up",Not Paid
+C010,A104,U996,388,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Will talk to lawyer. Agent: I'll update your status",Paid
+C011,A104,U389,176,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Will talk to lawyer. Agent: Let's schedule a follow-up",Paid
+C012,A103,U456,117,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: Let's schedule a follow-up",Paid
+C013,A103,U956,377,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Will talk to lawyer. Agent: I'll update your status",Not Paid
+C014,A102,U300,176,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: I'll update your status",Paid
+C015,A101,U853,359,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: I'll escalate the case",Not Paid
+C016,A104,U721,332,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: I'll update your status",Not Paid
+C017,A104,U563,329,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: Payment confirmed",Paid
+C018,A101,U731,160,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Will talk to lawyer. Agent: I'll update your status",Not Paid
+C019,A103,U360,221,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: I'll escalate the case",Not Paid
+C020,A102,U393,373,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: Let me process the payment",Paid
+C021,A103,U511,122,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I’ll pay next week. Agent: Let me process the payment",Paid
+C022,A103,U696,278,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: This is harassment. Agent: We can do installments",Paid
+C023,A104,U837,154,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Will talk to lawyer. Agent: Let me process the payment",Paid
+C024,A104,U407,373,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: Let's schedule a follow-up",Paid
+C025,A101,U626,240,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: This is harassment. Agent: Payment confirmed",Paid
+C026,A102,U347,104,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I need more time. Agent: Let me process the payment",Not Paid
+C027,A102,U988,379,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: This is harassment. Agent: I'll update your status",Not Paid
+C028,A101,U889,138,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Already paid. Agent: I'll update your status",Not Paid
+C029,A103,U122,285,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: I'll escalate the case",Paid
+C030,A102,U859,294,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I need more time. Agent: Let me process the payment",Not Paid
+C031,A103,U602,109,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: This is harassment. Agent: Payment confirmed",Paid
+C032,A102,U150,307,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I need more time. Agent: I'll update your status",Not Paid
+C033,A102,U324,353,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I lost my job. Agent: Payment confirmed",Paid
+C034,A104,U702,310,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Will talk to lawyer. Agent: Let's schedule a follow-up",Paid
+C035,A103,U695,146,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: We can do installments",Not Paid
+C036,A102,U520,208,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I’ll pay next week. Agent: I'll escalate the case",Not Paid
+C037,A102,U847,267,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: I'll escalate the case",Not Paid
+C038,A102,U648,258,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I’ll pay next week. Agent: Let's schedule a follow-up",Paid
+C039,A103,U936,316,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: Let's schedule a follow-up",Not Paid
+C040,A101,U561,261,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: Let's schedule a follow-up",Paid
+C041,A103,U228,328,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I’ll pay next week. Agent: I'll update your status",Paid
+C042,A104,U773,103,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: Let me process the payment",Paid
+C043,A101,U386,338,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I need more time. Agent: I'll escalate the case",Paid
+C044,A102,U165,116,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: Let me process the payment",Paid
+C045,A104,U801,360,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: I'll escalate the case",Paid
+C046,A101,U663,266,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: Let me process the payment",Not Paid
+C047,A102,U312,182,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: Let me process the payment",Paid
+C048,A101,U392,124,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I’ll pay next week. Agent: I'll update your status",Not Paid
+C049,A103,U448,134,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: I'll update your status",Not Paid
+C050,A101,U877,289,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: Let's schedule a follow-up",Paid
+C051,A102,U761,311,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: Payment confirmed",Not Paid
+C052,A102,U289,165,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: Payment confirmed",Paid
+C053,A103,U716,376,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I’ll pay next week. Agent: I'll escalate the case",Not Paid
+C054,A102,U503,271,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I need more time. Agent: Payment confirmed",Not Paid
+C055,A104,U269,105,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Will talk to lawyer. Agent: Let me process the payment",Not Paid
+C056,A103,U279,346,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: Let me process the payment",Not Paid
+C057,A101,U234,203,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: We can do installments",Paid
+C058,A101,U598,376,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: I'll escalate the case",Not Paid
+C059,A103,U709,202,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Already paid. Agent: I'll escalate the case",Not Paid
+C060,A103,U500,303,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I lost my job. Agent: Let me process the payment",Paid
+C061,A103,U756,118,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: We can do installments",Paid
+C062,A104,U901,225,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: We can do installments",Paid
+C063,A102,U375,169,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: This is harassment. Agent: I'll update your status",Not Paid
+C064,A103,U175,104,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: I'll escalate the case",Paid
+C065,A103,U538,250,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: Let's schedule a follow-up",Paid
+C066,A103,U149,378,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: Payment confirmed",Paid
+C067,A103,U479,119,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: This is harassment. Agent: Let me process the payment",Paid
+C068,A104,U204,219,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I’ll pay next week. Agent: Let me process the payment",Paid
+C069,A104,U882,349,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: Let's schedule a follow-up",Not Paid
+C070,A102,U455,353,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Will talk to lawyer. Agent: Let me process the payment",Not Paid
+C071,A101,U919,120,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Already paid. Agent: Let me process the payment",Paid
+C072,A101,U582,200,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: This is harassment. Agent: I'll update your status",Paid
+C073,A102,U204,291,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I lost my job. Agent: We can do installments",Paid
+C074,A104,U679,108,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: Let me process the payment",Paid
+C075,A102,U904,103,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Already paid. Agent: I'll update your status",Paid
+C076,A103,U981,363,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: Let me process the payment",Paid
+C077,A104,U810,394,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I’ll pay next week. Agent: I'll escalate the case",Not Paid
+C078,A103,U547,347,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: Let me process the payment",Not Paid
+C079,A104,U271,400,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: I'll update your status",Not Paid
+C080,A104,U810,312,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: This is harassment. Agent: Let's schedule a follow-up",Not Paid
+C081,A103,U754,239,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: Let me process the payment",Paid
+C082,A102,U288,281,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: I'll update your status",Paid
+C083,A101,U748,100,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: I'll escalate the case",Not Paid
+C084,A101,U883,301,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I lost my job. Agent: I'll escalate the case",Not Paid
+C085,A103,U819,232,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I’ll pay next week. Agent: Payment confirmed",Paid
+C086,A101,U238,384,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I lost my job. Agent: Let's schedule a follow-up",Not Paid
+C087,A103,U372,121,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: Let me process the payment",Paid
+C088,A103,U902,379,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: We can do installments",Not Paid
+C089,A102,U636,172,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Wrong number. Agent: I'll update your status",Paid
+C090,A101,U107,199,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I need more time. Agent: Let's schedule a follow-up",Not Paid
+C091,A102,U902,213,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Can’t pay now. Agent: Let's schedule a follow-up",Paid
+C092,A103,U385,188,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Already paid. Agent: We can do installments",Paid
+C093,A101,U535,234,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: I'll update your status",Paid
+C094,A104,U287,125,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: Payment confirmed",Paid
+C095,A103,U309,382,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I'm waiting for salary. Agent: Payment confirmed",Not Paid
+C096,A104,U522,345,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: I'll update your status",Paid
+C097,A102,U266,263,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I lost my job. Agent: I'll escalate the case",Not Paid
+C098,A103,U476,250,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: I need more time. Agent: I'll update your status",Not Paid
+C099,A104,U369,153,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: Let's schedule a follow-up",Paid
+C100,A101,U560,104,"Agent: Hello, this is DebtCo regarding your pending balance. Customer: Please stop calling. Agent: We can do installments",Not Paid

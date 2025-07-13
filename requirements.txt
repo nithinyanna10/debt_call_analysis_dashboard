@@ -1,0 +1,14 @@
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+joblib
+# For model training and feature engineering
+xgboost
+lightgbm
+# For generating dummy data
+faker
+# For compatibility with Python 3.13
+# Add any other dependencies your src/ scripts use
